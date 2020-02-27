@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/axios-practice.git/static/css/main.520ac91b.chunk.css",
+    "main.js": "/axios-practice.git/static/js/main.67bb3a56.chunk.js",
+    "main.js.map": "/axios-practice.git/static/js/main.67bb3a56.chunk.js.map",
+    "runtime-main.js": "/axios-practice.git/static/js/runtime-main.6b95fdee.js",
+    "runtime-main.js.map": "/axios-practice.git/static/js/runtime-main.6b95fdee.js.map",
+    "static/js/2.e25c129a.chunk.js": "/axios-practice.git/static/js/2.e25c129a.chunk.js",
+    "static/js/2.e25c129a.chunk.js.map": "/axios-practice.git/static/js/2.e25c129a.chunk.js.map",
+    "index.html": "/axios-practice.git/index.html",
+    "precache-manifest.de6631fbe8d68788ea55370c6c37fcbf.js": "/axios-practice.git/precache-manifest.de6631fbe8d68788ea55370c6c37fcbf.js",
+    "service-worker.js": "/axios-practice.git/service-worker.js",
+    "static/css/main.520ac91b.chunk.css.map": "/axios-practice.git/static/css/main.520ac91b.chunk.css.map",
+    "static/js/2.e25c129a.chunk.js.LICENSE.txt": "/axios-practice.git/static/js/2.e25c129a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b95fdee.js",
+    "static/js/2.e25c129a.chunk.js",
+    "static/css/main.520ac91b.chunk.css",
+    "static/js/main.67bb3a56.chunk.js"
+  ]
+}
