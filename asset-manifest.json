@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/axios-practice.git/static/css/main.520ac91b.chunk.css",
-    "main.js": "/axios-practice.git/static/js/main.67bb3a56.chunk.js",
-    "main.js.map": "/axios-practice.git/static/js/main.67bb3a56.chunk.js.map",
-    "runtime-main.js": "/axios-practice.git/static/js/runtime-main.6b95fdee.js",
-    "runtime-main.js.map": "/axios-practice.git/static/js/runtime-main.6b95fdee.js.map",
-    "static/js/2.e25c129a.chunk.js": "/axios-practice.git/static/js/2.e25c129a.chunk.js",
-    "static/js/2.e25c129a.chunk.js.map": "/axios-practice.git/static/js/2.e25c129a.chunk.js.map",
-    "index.html": "/axios-practice.git/index.html",
-    "precache-manifest.de6631fbe8d68788ea55370c6c37fcbf.js": "/axios-practice.git/precache-manifest.de6631fbe8d68788ea55370c6c37fcbf.js",
-    "service-worker.js": "/axios-practice.git/service-worker.js",
-    "static/css/main.520ac91b.chunk.css.map": "/axios-practice.git/static/css/main.520ac91b.chunk.css.map",
-    "static/js/2.e25c129a.chunk.js.LICENSE.txt": "/axios-practice.git/static/js/2.e25c129a.chunk.js.LICENSE.txt"
+    "main.css": "/axios-practice/static/css/main.520ac91b.chunk.css",
+    "main.js": "/axios-practice/static/js/main.2ad55e4b.chunk.js",
+    "main.js.map": "/axios-practice/static/js/main.2ad55e4b.chunk.js.map",
+    "runtime-main.js": "/axios-practice/static/js/runtime-main.e96eb8fe.js",
+    "runtime-main.js.map": "/axios-practice/static/js/runtime-main.e96eb8fe.js.map",
+    "static/js/2.e25c129a.chunk.js": "/axios-practice/static/js/2.e25c129a.chunk.js",
+    "static/js/2.e25c129a.chunk.js.map": "/axios-practice/static/js/2.e25c129a.chunk.js.map",
+    "index.html": "/axios-practice/index.html",
+    "precache-manifest.80cc9dccb5c940bada1c8408abc83fd5.js": "/axios-practice/precache-manifest.80cc9dccb5c940bada1c8408abc83fd5.js",
+    "service-worker.js": "/axios-practice/service-worker.js",
+    "static/css/main.520ac91b.chunk.css.map": "/axios-practice/static/css/main.520ac91b.chunk.css.map",
+    "static/js/2.e25c129a.chunk.js.LICENSE.txt": "/axios-practice/static/js/2.e25c129a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.6b95fdee.js",
+    "static/js/runtime-main.e96eb8fe.js",
     "static/js/2.e25c129a.chunk.js",
     "static/css/main.520ac91b.chunk.css",
-    "static/js/main.67bb3a56.chunk.js"
+    "static/js/main.2ad55e4b.chunk.js"
   ]
 }
